@@ -1,5 +1,6 @@
 /*
-phi  = events: true(squirrel and pizza) * false(squirrel and pizza) * true(squirrel) and false(pizza) * false(squirrel) and true(pizza) / frequency: (squirrel: 5 times ) * (no squirrel: 85 times ) * (pizza: 10 times) * (no pizza: 80 times)
+phi  = events: true(squirrel and pizza) * false(squirrel and pizza) * true(squirrel) and false(pizza) * false(squirrel) and true(pizza) /
+       frequency: (squirrel: 5 times ) * (no squirrel: 85 times ) * (pizza: 10 times) * (no pizza: 80 times)
 phi = 1 * 76 - 4 * 9 / Math.sqrt(5 * 85 * 10 * 80)
 phi = 40 / Math.sqrt(340000);
 phi = 0.069
